@@ -37,4 +37,9 @@ FNovels is still updating to become one of the best reader app out there. More f
   - Give edges spacing
 
 
-Enjoy this service to your heart's content.
+Enjoy this service to your heart's content. If you have any problems, please commit/report on [issue](https://github.com/JelLee11/FNovels/issues)..
+
+
+If you love our service, you can support us using [SociaBuzz](https://sociabuzz.com/cloverclub_03/tribe) or [Ko-Fi](https://ko-fi.com/skyfreak).
+
+Like g follow us on [Facebook](https://www.facebook.com/share/1FU7qixAPs/), Join [Telegram](https://t.me/ufox_group) and [Discord](https://discord.gg/VbegqQk5rT)
