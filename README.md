@@ -6,6 +6,9 @@ It has around hundreds of novels to be enjoyed, you can also reaquest novels if 
 
 FNovels is still updating to become one of the best reader app out there. More features would come soon.
 
+### Downloads
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/JelLee11/FNovels/total?style=social&logo=android)
+
 ## Available Feature
 
 - [x] Search and Filter novels base on it's title, newest, most popular, most rated and by genres
